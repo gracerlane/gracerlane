@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Grace Lane
-- 👀 I’m interested in all things Computer Science
 - 📫 You can reach me through my email: grjlane@outlook.com
 
 <!---
